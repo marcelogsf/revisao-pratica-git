@@ -1,0 +1,42 @@
+Aluno: marcelo gomes da silva filho
+Nota: 10.0/10
+
+
+1. O que faz o comando 'git init'?
+Resposta: C | Correta: C
+
+
+2. Para que serve o 'git clone'?
+Resposta: D | Correta: D
+
+
+3. Qual comando mostra o estado atual dos arquivos?
+Resposta: B | Correta: B
+
+
+4. Como adicionamos arquivos à staging area?
+Resposta: A | Correta: A
+
+
+5. Qual o comando para salvar as alterações com uma mensagem?
+Resposta: B | Correta: B
+
+
+6. Como visualizar o histórico de commits?
+Resposta: D | Correta: D
+
+
+7. O que faz o comando 'git push'?
+Resposta: C | Correta: C
+
+
+8. E o comando 'git pull'?
+Resposta: A | Correta: A
+
+
+9. Como criamos um novo branch?
+Resposta: C | Correta: C
+
+
+10. Qual comando usamos para mudar de branch?
+Resposta: D | Correta: D
